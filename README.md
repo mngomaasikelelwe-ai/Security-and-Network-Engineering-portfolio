@@ -68,7 +68,7 @@ A system that calculates totals, applies discounts, and manages items.
 
 ## 🌐 Live Portfolio
 
-👉 GitHub Pages Website:  
+👉 GitHub Pages Website:  https://mngomaasikelelwe-ai.github.io/Security-and-Network-Engineering-portfolio/ 
 
 
 ---
