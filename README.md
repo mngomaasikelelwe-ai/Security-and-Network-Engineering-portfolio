@@ -1,90 +1,106 @@
 # Security-and-Network-Engineering-portfolio
-# 👩🏽‍💻 Asikelelwe Awonke Mngoma | Cybersecurity Portfolio
+# 👩🏽‍💻 Asikelelwe Awonke Mngoma | Cybersecurity & Network Engineering Portfolio
 
-Welcome to my personal cybersecurity and network engineering portfolio! 🚀  
-This project showcases my skills, projects, and certifications in IT security and networking.
+> “Securing systems, analyzing threats, and building resilient networks.”
 
----
-
-## 🔐 About Me
-
-I am an aspiring **Network Engineer and Ethical Hacker** with a strong passion for cybersecurity.  
-I hold a Higher Certificate in Cybersecurity and am currently pursuing a Bachelor of Science in Security and Network Engineering.
-
-My focus areas include:
-- Network security
-- Ethical hacking
-- Threat analysis
-- Secure system design
+Welcome to my cybersecurity portfolio. This repository showcases my technical skills, hands-on projects, and continuous growth in **cybersecurity, ethical hacking, and network engineering**.
 
 ---
 
-## 🛠️ Skills
+## 👨🏽‍💻 About Me
 
-### 🔐 Cybersecurity
-- Threat Analysis & Detection  
+I am an aspiring **Network Engineer and Cybersecurity Analyst** currently pursuing a Bachelor of Science in Security and Network Engineering.
+
+I specialize in:
+- Network defense and security architecture
+- Ethical hacking and vulnerability analysis
+- Threat detection and incident response
+- Secure system design and troubleshooting
+
+I am passionate about understanding how systems are attacked — and how to defend them.
+
+---
+
+## 🔐 Core Skills
+
+### 🛡️ Cybersecurity
+- Threat Detection & Analysis  
 - Vulnerability Assessment  
-- SIEM Concepts  
+- SIEM Fundamentals  
 - Incident Response  
+- Risk Assessment  
 
 ### 🌐 Networking
 - TCP/IP & OSI Model  
-- Subnetting  
+- Subnetting & IP Planning  
 - Routing & Switching  
-- Network troubleshooting  
+- Network Troubleshooting  
+- Firewall Fundamentals  
 
 ### 💻 Programming
-- C++  
-- Python  
-- HTML & CSS  
+- C++ (Data structures & logic systems)  
+- Python (Automation basics)  
+- HTML & CSS (Web development)  
 
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
 - Cisco Packet Tracer  
 - GNS3  
 - VirtualBox  
+- Basic Linux environments  
 
 ---
 
-## 📁 Projects
+## 📁 Featured Projects
 
 ### 💻 Book Inventory System (C++)
-A system to manage book records using data structures and input validation.
+A structured system for managing book records using object-oriented programming and data handling techniques.
 
-### 🚦 Traffic Simulation (C++)
-A simulation that models real-world traffic flow using conditions like vehicle count and environment.
+### 🚦 Smart Traffic Simulation
+A simulation system designed to model traffic behavior using dynamic conditions such as congestion and environmental factors.
 
-### 🛒 Shopping System (C++)
-A system that calculates totals, applies discounts, and manages items.
-
----
-
-## 📜 Certifications
-
-- IBM Cybersecurity Analyst Badge  
-- Coursera Cybersecurity Certificates  
-- Network Security Training Projects  
+### 🛒 Online Shopping System
+A C++ program that calculates totals, applies discounts, and manages customer purchases efficiently.
 
 ---
 
-## 🌐 Live Portfolio
+## 🏅 Certifications & Learning
 
-👉 GitHub Pages Website:  https://mngomaasikelelwe-ai.github.io/Security-and-Network-Engineering-portfolio/ 
+- IBM Cybersecurity Analyst Professional Badge  
+- Coursera Cybersecurity Certifications  
+- Hands-on Network Security Labs  
+- Academic cybersecurity projects (SIEM, threat analysis, CASP+ concepts)
 
+---
+
+## 📊 Learning Focus
+
+Currently strengthening:
+- Advanced penetration testing concepts  
+- Network defense strategies  
+- Cloud security fundamentals (AWS basics)  
+- Security architecture design  
+
+---
+
+## 🌐 Portfolio Website
+
+👉 Live Site:
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: mngomaasikelelwe@gmail.com  
+- 📧 Email: mngomaasikelelwe@gmail.com  /awonkeasikelwe@gmail.com/eduv1608424@vossie.net
 - 💻 GitHub: [mngomaasikelelwe-ai](https://github.com/mngomaasikelelwe-ai)  
-- 🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/asikelelwe-mngoma-1611b2329)
+- 🔗 LinkedIn:www.linkedin.com/in/asikelelwe-mngoma-1611b2329
 
 ---
 
 ## ⭐ Note
 
-This portfolio is continuously updated as I grow my skills in cybersecurity and network engineering.
+This portfolio is actively evolving as I continue to grow in cybersecurity and network engineering. Every project reflects practical, hands-on learning.
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ *Built with passion for cybersecurity and continuous learning.*
+
