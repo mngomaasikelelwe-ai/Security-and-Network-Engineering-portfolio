@@ -61,7 +61,7 @@ Focused on enterprise security design, risk management, compliance, and secure s
 ## 📫 Contact Me
 
 - 📧 Email: mngomaasikelelwe@gmail.com  /awonkeasikelwe@gmail.com/eduv1608424@vossie.net
-- 💻 GitHub: [mngomaasikelelwe-ai](https://github.com/mngomaasikelelwe-ai)  
+- 💻 GitHub: https://mngomaasikelelwe-ai.github.io/Security-and-Network-Engineering-portfolio/
 - 🔗 LinkedIn:www.linkedin.com/in/asikelelwe-mngoma-1611b2329
 
 ---
