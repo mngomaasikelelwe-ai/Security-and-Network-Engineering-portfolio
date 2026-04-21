@@ -1,92 +1,62 @@
 # Security-and-Network-Engineering-portfolio
 # 👩🏽‍💻 Asikelelwe Awonke Mngoma | Cybersecurity & Network Engineering Portfolio
 
-> “Securing systems, analyzing threats, and building resilient networks.”
 
-Welcome to my cybersecurity portfolio. This repository showcases my technical skills, hands-on projects, and continuous growth in **cybersecurity, ethical hacking, and network engineering**.
+## About Me
 
----
+I am a passionate IT student with a Higher Certificate in Cybersecurity, currently pursuing a Bachelor of Science in Security and Network Engineering. I am strongly focused on ethical hacking, network security, and building secure and resilient systems.
 
-## 👨🏽‍💻 About Me
-
-I am an aspiring **Network Engineer and Cybersecurity Analyst** currently pursuing a Bachelor of Science in Security and Network Engineering.
-
-I specialize in:
-- Network defense and security architecture
-- Ethical hacking and vulnerability analysis
-- Threat detection and incident response
-- Secure system design and troubleshooting
-
-I am passionate about understanding how systems are attacked — and how to defend them.
+My experience includes hands-on cybersecurity projects such as penetration testing, threat analysis, SIEM concepts, incident response, and network security design.
 
 ---
 
-## 🔐 Core Skills
+## Skills
 
-### 🛡️ Cybersecurity
-- Threat Detection & Analysis  
-- Vulnerability Assessment  
-- SIEM Fundamentals  
-- Incident Response  
-- Risk Assessment  
+### Cybersecurity
+- Threat Analysis & Detection
+- Vulnerability Assessment
+- Risk Assessment & Basic Mitigation
+- Security Monitoring (SIEM concepts)
+- Incident Response Fundamentals
+- Cybersecurity Principles (CIA Triad)
 
-### 🌐 Networking
-- TCP/IP & OSI Model  
-- Subnetting & IP Planning  
-- Routing & Switching  
-- Network Troubleshooting  
-- Firewall Fundamentals  
+### Network Engineering
+- Networking Fundamentals (TCP/IP, OSI Model)
+- IP Addressing & Subnetting
+- Routing & Switching Basics
+- Network Configuration & Troubleshooting
+- Firewall & Basic Network Security
 
-### 💻 Programming
-- C++ (Data structures & logic systems)  
-- Python (Automation basics)  
-- HTML & CSS (Web development)  
+### Tools
+- Cisco Packet Tracer
+- GNS3
+- Oracle VM VirtualBox
 
-### 🛠️ Tools & Technologies
-- Cisco Packet Tracer  
-- GNS3  
-- VirtualBox  
-- Basic Linux environments  
+### Programming
+- C++ (Basic)
+- Python (Basic)
+- HTML & CSS
 
----
-
-## 📁 Featured Projects
-
-### 💻 Book Inventory System (C++)
-A structured system for managing book records using object-oriented programming and data handling techniques.
-
-### 🚦 Smart Traffic Simulation
-A simulation system designed to model traffic behavior using dynamic conditions such as congestion and environmental factors.
-
-### 🛒 Online Shopping System
-A C++ program that calculates totals, applies discounts, and manages customer purchases efficiently.
+### Cloud
+- AWS (Beginner)
 
 ---
 
-## 🏅 Certifications & Learning
+## Projects
 
-- IBM Cybersecurity Analyst Professional Badge  
-- Coursera Cybersecurity Certifications  
-- Hands-on Network Security Labs  
-- Academic cybersecurity projects (SIEM, threat analysis, CASP+ concepts)
+### Network Security Assignment (Packet Tracer)
+Designed and simulated a secure network using Cisco Packet Tracer.  
+Configured routers and switches, implemented IP addressing, and tested connectivity between multiple network segments.
 
----
+### Penetration Testing Project
+Conducted vulnerability scanning, basic exploitation techniques, and security reporting to identify system weaknesses.
 
-## 📊 Learning Focus
+### CySA+ Security Analysis Project
+Performed threat detection, SIEM analysis, and incident response simulation to identify and investigate suspicious activity.
 
-Currently strengthening:
-- Advanced penetration testing concepts  
-- Network defense strategies  
-- Cloud security fundamentals (AWS basics)  
-- Security architecture design  
+### CASP+ Advanced Security Architecture Project
+Focused on enterprise security design, risk management, compliance, and secure system architecture.
 
----
-
-## 🌐 Portfolio Website
-
-👉 Live Site:
-
----
 
 ## 📫 Contact Me
 
